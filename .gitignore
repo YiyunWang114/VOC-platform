@@ -1,0 +1,12 @@
+# TRAE 工作目录
+.trae/
+
+# 上传附件（原始数据文件）
+.uploads/
+
+# 归档（无关项目、旧脚本、zip 备份，不入库）
+_archive/
+
+# 数据探查产生的超大中间文件（保留脚本与样本即可复现）
+p0-2/clean_reviews.json
+p0-2/data_report.txt
